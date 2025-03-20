@@ -1,7 +1,7 @@
 In this project, let's fix the **Stopwatch** by applying the concepts we have learned till now.
 
 ### Refer to the image below:
-Open here to see the output: https://learning.ccbp.in/ide/RJSCP90ZT3?d=1&e_t=UVVFU1RJT04=&r_v=true
+
 
 <br/>
 <div style="text-align: center;">
